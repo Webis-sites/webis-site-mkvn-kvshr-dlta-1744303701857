@@ -9,10 +9,13 @@ import TrainerProfiles from '@/components/TrainerProfiles';
 import FAQSection from '@/components/FAQSection';
 import MembershipPlans from '@/components/MembershipPlans';
 import ClassSchedule from '@/components/ClassSchedule';
+import ContactSection from '@/components/ContactSection';
 
 export default function HomePage() {
   return (
     <div className="flex min-h-screen flex-col">
+      <ContactSection />
+      
       <ClassSchedule />
       
       <MembershipPlans />
