@@ -35,6 +35,9 @@
   --background-blur: 8px;
   --neumorphic-shadow-light: -8px -8px 16px #ffffff;
   --neumorphic-shadow-dark: 8px 8px 16px #d1d9e6;
+
+  --color-background: #f0f2f5;
+  --color-text: #333333;
 }
 
     html {
