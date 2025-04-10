@@ -17,6 +17,11 @@
   --card-shadow: 8px 8px 16px rgba(174,174,192,0.4), -8px -8px 16px rgba(255,255,255,0.8);
   --card-shadow-hover: inset 8px 8px 16px rgba(174,174,192,0.2), inset -8px -8px 16px rgba(255,255,255,0.6);
   --icon-shadow: 4px 4px 10px rgba(155,120,111,0.3), -4px -4px 10px rgba(255,255,255,0.8);
+
+  --neumorphic-light: rgba(255, 255, 255, 0.8);
+  --neumorphic-shadow: rgba(0, 0, 0, 0.1);
+  --glass-border: rgba(255, 255, 255, 0.2);
+  --glass-bg: rgba(255, 255, 255, 0.1);
 }
 
     html {
