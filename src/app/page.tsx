@@ -14,10 +14,13 @@ import SuccessStories from '@/components/SuccessStories';
 import NavigationHeader from '@/components/NavigationHeader';
 import Footer from '@/components/Footer';
 import CTABanner from '@/components/CTABanner';
+import SpecialOffers from '@/components/SpecialOffers';
 
 export default function HomePage() {
   return (
     <div className="flex min-h-screen flex-col">
+      <SpecialOffers />
+      
       <CTABanner />
       
       <Footer />
