@@ -12,6 +12,11 @@
     
   --color-primary: #9B786F;
   --color-secondary: #D4A5A5;
+
+  --background-gradient: linear-gradient(to bottom right, #f7f7f7, #e5e5e5);
+  --card-shadow: 8px 8px 16px rgba(174,174,192,0.4), -8px -8px 16px rgba(255,255,255,0.8);
+  --card-shadow-hover: inset 8px 8px 16px rgba(174,174,192,0.2), inset -8px -8px 16px rgba(255,255,255,0.6);
+  --icon-shadow: 4px 4px 10px rgba(155,120,111,0.3), -4px -4px 10px rgba(255,255,255,0.8);
 }
 
     html {
