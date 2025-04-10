@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-10T16:48:21.967Z",
+  "timestamp": "2025-04-10T17:03:04.548Z",
   "steps": {
     "planGenerated": false,
     "componentsGenerated": false,
@@ -9,6 +9,6 @@
     "deploymentStarted": false,
     "deploymentComplete": false
   },
-  "deployedUrl": null,
+  "deployedUrl": "webis-site-mkvn-kvshr-dlta-1744303701857-isqh4n53n.vercel.app",
   "error": null
 }
