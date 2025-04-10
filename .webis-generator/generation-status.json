@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-04-10T16:53:15.187Z",
+  "timestamp": "2025-04-10T16:53:55.075Z",
   "status": {
     "totalComponents": 15,
-    "completedComponents": 3,
+    "completedComponents": 4,
     "failedComponents": 0,
-    "progress": 20
+    "progress": 27
   },
   "components": [
     {
@@ -28,7 +28,7 @@
     {
       "name": "FacilitiesGallery",
       "type": "gallery",
-      "status": "pending",
+      "status": "completed",
       "description": "Visual showcase of the gym's equipment, spaces and facilities"
     },
     {
