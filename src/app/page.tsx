@@ -8,10 +8,13 @@ import FacilitiesGallery from '@/components/FacilitiesGallery';
 import TrainerProfiles from '@/components/TrainerProfiles';
 import FAQSection from '@/components/FAQSection';
 import MembershipPlans from '@/components/MembershipPlans';
+import ClassSchedule from '@/components/ClassSchedule';
 
 export default function HomePage() {
   return (
     <div className="flex min-h-screen flex-col">
+      <ClassSchedule />
+      
       <MembershipPlans />
       
       <FAQSection />
