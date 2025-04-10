@@ -3,10 +3,13 @@
 import React from 'react';
 import HeroSection from '@/components/HeroSection';
 import ServicesSection from '@/components/ServicesSection';
+import BookingSection from '@/components/BookingSection';
 
 export default function HomePage() {
   return (
     <div className="flex min-h-screen flex-col">
+      <BookingSection />
+      
       <ServicesSection />
       
       <HeroSection />
