@@ -10,10 +10,13 @@ import FAQSection from '@/components/FAQSection';
 import MembershipPlans from '@/components/MembershipPlans';
 import ClassSchedule from '@/components/ClassSchedule';
 import ContactSection from '@/components/ContactSection';
+import SuccessStories from '@/components/SuccessStories';
 
 export default function HomePage() {
   return (
     <div className="flex min-h-screen flex-col">
+      <SuccessStories />
+      
       <ContactSection />
       
       <ClassSchedule />
