@@ -1,11 +1,102 @@
 {
-  "timestamp": "2025-04-10T16:48:44.057Z",
+  "timestamp": "2025-04-10T16:49:33.063Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 15,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "RTL-optimized hero section featuring gym's main headline, description, and primary CTA"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Showcase of gym's professional services with visual cards and descriptions"
+    },
+    {
+      "name": "BookingSection",
+      "type": "booking",
+      "status": "pending",
+      "description": "Interactive booking form with RTL support for scheduling gym sessions"
+    },
+    {
+      "name": "FacilitiesGallery",
+      "type": "gallery",
+      "status": "pending",
+      "description": "Visual showcase of the gym's equipment, spaces and facilities"
+    },
+    {
+      "name": "TrainerProfiles",
+      "type": "team",
+      "status": "pending",
+      "description": "Profiles of the gym's professional trainers with expertise and credentials"
+    },
+    {
+      "name": "FAQSection",
+      "type": "faq",
+      "status": "pending",
+      "description": "Expandable FAQ section addressing common questions about the gym"
+    },
+    {
+      "name": "MembershipPlans",
+      "type": "pricing",
+      "status": "pending",
+      "description": "Tiered membership options with features and pricing"
+    },
+    {
+      "name": "ClassSchedule",
+      "type": "schedule",
+      "status": "pending",
+      "description": "Weekly schedule of fitness classes with times and descriptions"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact information, location map, and hours of operation"
+    },
+    {
+      "name": "SuccessStories",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "Before/after transformation stories of gym members"
+    },
+    {
+      "name": "NavigationHeader",
+      "type": "navigation",
+      "status": "pending",
+      "description": "RTL-optimized header with logo, navigation links, and mobile menu"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "RTL-optimized footer with links, social media, and copyright information"
+    },
+    {
+      "name": "CTABanner",
+      "type": "cta",
+      "status": "pending",
+      "description": "Prominent call-to-action banner encouraging visitors to book a session"
+    },
+    {
+      "name": "SpecialOffers",
+      "type": "promotions",
+      "status": "pending",
+      "description": "Limited-time promotions and special membership deals"
+    },
+    {
+      "name": "AmenitiesList",
+      "type": "features",
+      "status": "pending",
+      "description": "Comprehensive list of gym amenities and facilities with icons"
+    }
+  ],
   "repoName": "webis-site-mkvn-kvshr-dlta-1744303701857"
 }
