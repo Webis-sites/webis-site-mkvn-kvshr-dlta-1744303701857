@@ -9,7 +9,10 @@
       --background-end-rgb: 255, 255, 255;
       --primary-color: #9B786F;
       --secondary-color: #D4A5A5;
-    }
+    
+  --color-primary: #9B786F;
+  --color-secondary: #D4A5A5;
+}
 
     html {
       scroll-behavior: smooth;
